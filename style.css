@@ -1,4 +1,12 @@
 .bg-hero-image {
-    background-image: url("https://picsum.photos/1300/500");
+    background-color: rgba(190, 190, 190, 0.993);
     background-position: center center;
 }
+
+body {
+    background-image: url("imgs/background.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
