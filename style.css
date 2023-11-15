@@ -1,5 +1,5 @@
 .bg-hero-image {
-    background-color: rgba(190, 190, 190, 0.993);
+    background-color: rgba(167, 0, 0, 0.2);
     background-position: center center;
 }
 
@@ -10,3 +10,40 @@ body {
     background-size: cover;
 }
 
+a.dropdown-item {
+    color: pink;
+    font-family: 'Playfair Display', serif;
+}
+
+hr.dropdown-divider {
+    background-color: lightblue;
+}
+a.dropdown-item:hover {
+   background-color: darkblue;
+   color: white;
+}
+
+a.navbar-brand {
+    font-family: 'Playfair Display', sans-serif;
+}
+
+li.nav-item dropdown {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a.nav-link active {
+    font-family: 'Heebo', sans-serif;
+}
+
+li.nav-item {
+    font-family: 'Playfair Display', sans-serif;
+    color: black;
+}
+
+h5.card-title {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p.font {
+    font-family: 'Playfair Display', sans-serif;
+}
