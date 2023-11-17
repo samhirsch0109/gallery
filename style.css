@@ -19,7 +19,7 @@ hr.dropdown-divider {
     background-color: lightblue;
 }
 a.dropdown-item:hover {
-   background-color: darkblue;
+   background-color: #8064A2;
    color: white;
 }
 
@@ -46,4 +46,17 @@ h5.card-title {
 
 p.font {
     font-family: 'Playfair Display', sans-serif;
+}
+
+.btn-primary {
+    background-color: #8064A2;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: lightblue;
+}
+
+p.card-text {
+    font-family: 'Josefin Sans', sans-serif;
 }
