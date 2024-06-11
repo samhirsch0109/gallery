@@ -60,3 +60,11 @@ p.font {
 p.card-text {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+.card {
+    height: 100%;
+}
+img.card-img-top {
+    width: auto;
+    height: 150px;
+}
